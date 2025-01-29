@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosueBernabe17
+- Hi, I’m Josue Enmanuel Bernabe Marte
 - 👀 I’m interested in Python enthusiast with a passion for web development. Experienced in SQL and ASP.NET. Eager to collaborate on projects involving databases and clean code.
 -  I’m currently learning Passionate about expanding my knowledge of databases. Excited to start my Python journey and explore other programming languages.
 -  I’m looking to collaborate on Seeking opportunities to contribute to Python and data-related projects. Interested in collaborating with teams on building scalable data solutions.
