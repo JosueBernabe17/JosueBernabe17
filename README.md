@@ -1,5 +1,5 @@
 - Hi, I’m Josue Enmanuel Bernabe Marte
-🚀 Python enthusiast | Web Development | SQL & ASP.NET
+🚀 Python enthusiast | Sotware Development | SQL & ASP.NET & C#
 
 👀 Passionate about Python, web development, and database management. Experienced in SQL and ASP.NET, with a strong interest in building scalable and efficient solutions.
 
