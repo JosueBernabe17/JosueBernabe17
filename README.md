@@ -1,12 +1,18 @@
-- Hi, I’m Josue Enmanuel Bernabe Marte
-🚀 Python enthusiast | Sotware Development | SQL & ASP.NET & C#
+### 💼 Jr Backend Developer | Python, SQL Server, ASP.NET | Process Automation & Data Solutions
 
-👀 Passionate about Python, web development, and database management. Experienced in SQL and ASP.NET, with a strong interest in building scalable and efficient solutions.
+I'm Josue Enmanuel Bernabe Marte, a proactive Software Developer with practical experience in Python, SQL Server, and ASP.NET. I specialize in backend development, process automation, and data-driven applications with a strong focus on clean, maintainable code.
 
-📚 Currently expanding my knowledge in databases and Python, eager to explore new programming languages and best practices.
+✅ **Core Skills:** Python, C#, SQL Server, ASP.NET, Flask  
+🔧 **Tools & Frameworks:** Tkinter, Flask, Git, Firebase, REST APIs  
+🗄 **Databases:** SQL Server, SQLite, Firebase  
+⚙ **Workflow:** Agile, Version Control (Git), Testing, Documentation
 
-🤝 Looking to collaborate on Python and data-driven projects, contributing to clean, efficient, and maintainable code.
+🚀 **Selected Projects:**
+- **Calculador_calorias** – Flask app for personalized calorie tracking with user login, Firebase integration, and dynamic tips based on goals.
+- **Weather App** – Real-time forecast dashboard using OpenWeatherMap API and RESTful integration.
+- **SQL Commission Tracker** – Backend automation to apply 1% fees to Airbnb-like rentals; reduced manual oversight.
 
-📫 Reach me at josuebernabe929@gmail.com
+🎯 Currently seeking **remote opportunities** in backend or data-focused development, where I can contribute to real-world solutions using Python, SQL, and modern technologies—while continuing to grow with agile teams.
 
-⚡ Fun fact: Always eager to learn and grow! Actively seeking remote opportunities where I can apply my SQL Server and Python expertise while working with a dynamic team.
+📫 Contact: josuebernabe929@gmail.com  
+🔗 GitHub: [github.com/JosueBernabe17](https://github.com/JosueBernabe17)
