@@ -1,4 +1,4 @@
-### 💼 Jr Backend Developer | Python, SQL Server, ASP.NET | Process Automation & Data Solutions
+### 💼 Software Developer | Python, SQL Server, ASP.NET | Process Automation & Data Solutions
 
 I'm Josue Enmanuel Bernabe Marte, a proactive Software Developer with practical experience in Python, SQL Server, and ASP.NET. I specialize in backend development, process automation, and data-driven applications with a strong focus on clean, maintainable code.
 
